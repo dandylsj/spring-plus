@@ -20,7 +20,7 @@ public class User extends Timestamped {
     private String password;
     @Enumerated(EnumType.STRING)
     private UserRole userRole;
-    @Column(name = "nickName")
+    @Column
     private String nickName;
 
     public User(String email, String password, UserRole userRole, String nickName) {
