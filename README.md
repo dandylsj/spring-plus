@@ -5,20 +5,35 @@ JWT 인증, JPA 최적화, QueryDSL, AOP 등 Spring Boot 실무 핵심 개념을
 
 # 🛠 기술 스택
 Backend
+
 Java 17
+
 Spring Boot 3.3.3
+
 Spring Web
+
 Spring Data JPA
+
 Spring Security
+
 Spring Boot Validation
+
 QueryDSL 5.0.0 - 타입 안전 쿼리
+
 Database
+
 MySQL (Production)
+
 H2 (Test)
+
 Hibernate - ORM
+
 Security
+
 JWT (JJWT 0.11.5) - 토큰 기반 인증
+
 BCrypt 0.10.2 - 비밀번호 암호화
+
 Gradle 8.8
 
 
